@@ -6,7 +6,7 @@ this is any letter between a-j and tells square-dance the width of the level, wh
 the rest of the code must have a length longer than how far into the alphabet the first letter is or if the first letter is "a"
 must be longer than 2  
 ## the rest of the code
-any capital letter excluding "R" and "S" (enough to add portals)
+any capital letter excluding "R" and "S" (enough to add portals)  
 A =   
 B =   
 C =   
